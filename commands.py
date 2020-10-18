@@ -20,6 +20,10 @@ class Commander:
                 self.respond("You haven't told me your name yet")
             else:
                 self.respond("My name is python commander. How are you?")
+        
+        elif "hi" or "hello" in text:
+            self.respond("Hi")
+       
         else:
             f = Fetcher("https://www.bing.com/search?q=" + text)
             result = f.lookup()
