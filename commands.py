@@ -1,5 +1,4 @@
 import win32com.client
-import os
 from result import Fetcher
 
 class Commander:
