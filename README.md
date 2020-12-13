@@ -1,4 +1,4 @@
-It is a speech recognition and basic AI thats let us to speech with our assistance and search stuff with directly question
+It is a speech recognition and basic AI app thats let us to speech with our assistance and search stuff with directly question
 
 For example :
 
