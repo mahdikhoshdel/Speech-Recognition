@@ -1,4 +1,4 @@
-### Speech Recognition and basic AI app
+### Speech Recognition
 This app gonna process your question or subject and will tell you that result after searching it.
 
 For example :
